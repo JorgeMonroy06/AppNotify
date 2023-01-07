@@ -1,5 +1,4 @@
 ## notify_inapp
-
 show custom in-app notification with any Widgets.
 
 ![](https://raw.githubusercontent.com/jiang111/notify_inapp/main/art/art.gif)
